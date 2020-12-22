@@ -3,10 +3,10 @@
 This is a fork of Luke's [mutt wizard](https://github.com/LukeSmithxyz/mutt-wizard) for termux on android.
 The changes are-
 - Dependency: mutt - the mail client (neomutt is not available in termux).
-- mw: Certificate location in mw script.
+- mw: New certificate location in mw script.
 - mutt-wizard.muttrc: sidebar format %D to %B and deletion of line 54,56,57,95,96,97,101,102,106,107 to be compatible with mutt.
 
-From here goes original readme
+The rest is original readme-
 
 Get this great stuff without effort:
 
