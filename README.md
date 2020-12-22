@@ -6,6 +6,8 @@ The changes are-
 - mw: New certificate location in mw script.
 - mutt-wizard.muttrc: sidebar format %D to %B and deletion of line 54,56,57,95,96,97,101,102,106,107 to be compatible with mutt.
 
+- run pass account name before syncing because termux can't promt you any gui decrypt window.
+
 The rest is original readme-
 
 Get this great stuff without effort:
